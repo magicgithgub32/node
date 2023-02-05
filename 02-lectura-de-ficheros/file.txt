@@ -1,0 +1,1 @@
+Hola, Rock{theCode}! Éste es un fichero a mostrar por el terminal 😎

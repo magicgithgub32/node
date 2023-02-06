@@ -24,6 +24,7 @@ const main = async () => {
   ]);
 
   console.log(responses);
+
   const filePath = `${WRITE_PATHNAME}/${responses.name}-${Date.now()}.json `;
   await fs.writeFile(filePath, JSON.stringify(responses));
   console.log("File written!");

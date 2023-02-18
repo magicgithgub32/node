@@ -29,3 +29,5 @@ const main = async () => {
   await fs.writeFile(filePath, JSON.stringify(responses));
   console.log("File written!");
 };
+
+main();

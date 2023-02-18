@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Elegante apartamento en el centro,lujoso",
+        "location": "Madrid",
+        "price": "1595",
+        "extraInformation": [
+            "A.C.",
+            "lavadora",
+            "parquet"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Local",
+        "location": "Madrid",
+        "price": "1350",
+        "extraInformation": [
+            "diáfano",
+            "larga estancia",
+            "amplitud"
+        ]
+    }
+]
